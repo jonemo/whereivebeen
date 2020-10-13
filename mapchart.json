@@ -32,14 +32,20 @@
                 "Salt_Lake__UT",
                 "Los_Angeles__CA",
                 "Orange__CA",
-                "San_Diego__CA"
+                "San_Diego__CA",
+                "Washington__UT",
+                "Garfield__UT",
+                "White_Pine__NV",
+                "Eureka__NV",
+                "Mono__CA",
+                "Mariposa__CA",
+                "Sonoma__CA"
             ]
         },
         "#ffa07a": {
             "div": "#box1",
             "label": "Passed through",
             "paths": [
-                "Sonoma__CA",
                 "Benton__OR",
                 "Polk__OR",
                 "Yamhill__OR",
@@ -162,7 +168,6 @@
                 "Wasatch__UT",
                 "Elko__NV",
                 "Tooele__UT",
-                "Eureka__NV",
                 "Lander__NV",
                 "Humboldt__NV",
                 "Pershing__NV",
@@ -237,7 +242,14 @@
                 "San_Joaquin__CA",
                 "Riverside__CA",
                 "San_Benito__CA",
-                "Philadelphia__PA"
+                "Philadelphia__PA",
+                "Tuolumne__CA",
+                "Stanislaus__CA",
+                "Kane__UT",
+                "Beaver__UT",
+                "Millard__UT",
+                "Iron__UT",
+                "San_Bernardino__CA"
             ]
         },
         "#2166ac": {
@@ -254,5 +266,8 @@
     "title": "",
     "hidden": [],
     "background": "#ffffff",
-    "borders": "#000000"
+    "borders": "#000000",
+    "legendFont": "Century Gothic",
+    "legendFontColor": "#000000",
+    "legendBgColor": "rgba(0, 0, 0, 0)"
 }
