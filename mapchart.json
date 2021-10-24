@@ -1,7 +1,6 @@
 {
     "groups": {
         "#cc3333": {
-            "div": "#box0",
             "label": "Stayed here",
             "paths": [
                 "Marin__CA",
@@ -39,11 +38,13 @@
                 "Eureka__NV",
                 "Mono__CA",
                 "Mariposa__CA",
-                "Sonoma__CA"
+                "Sonoma__CA",
+                "Kern__CA",
+                "San_Luis_Obispo__CA",
+                "Riverside__CA"
             ]
         },
         "#ffa07a": {
-            "div": "#box1",
             "label": "Passed through",
             "paths": [
                 "Benton__OR",
@@ -240,7 +241,6 @@
                 "Davis__UT",
                 "Merced__CA",
                 "San_Joaquin__CA",
-                "Riverside__CA",
                 "San_Benito__CA",
                 "Philadelphia__PA",
                 "Tuolumne__CA",
@@ -249,11 +249,14 @@
                 "Beaver__UT",
                 "Millard__UT",
                 "Iron__UT",
-                "San_Bernardino__CA"
+                "San_Bernardino__CA",
+                "Santa_Barbara__CA",
+                "Ventura__CA",
+                "Kings__CA",
+                "Fresno__CA"
             ]
         },
         "#2166ac": {
-            "div": "#box2",
             "label": "Lived here",
             "paths": [
                 "San_Mateo__CA",
@@ -269,5 +272,14 @@
     "borders": "#000000",
     "legendFont": "Century Gothic",
     "legendFontColor": "#000000",
-    "legendBgColor": "rgba(0, 0, 0, 0)"
+    "legendBgColor": "rgba(0, 0, 0, 0)",
+    "areBordersShown": true,
+    "defaultColor": "#d1dbdd",
+    "labelsColor": "#000000",
+    "strokeWidth": "medium",
+    "legendPosition": "bottom_right",
+    "legendSize": "medium",
+    "legendStatus": "show",
+    "scalingPatterns": true,
+    "legendRowsSameColor": true
 }
